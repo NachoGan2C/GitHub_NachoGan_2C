@@ -1,3 +1,6 @@
 De chill con mis panitas full refacheros
 
 He realizado un cambio desde el repositorio local
+
+He realizado un cambio desde el servidor remoto
+
